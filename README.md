@@ -1,5 +1,5 @@
 # SpriteSheetAnimation
-*Esse programa foi adaptado do livro Android 6 para programadores 3 edição.*
+<h6>Esse programa foi adaptado do livro Android 6 para programadores 3 edição.</h6>
 
 
 ## :memo: License
